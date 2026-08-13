@@ -8,7 +8,7 @@ queries, and page structure.
 
 ## Preview
 
-![Netflix Clone Preview](./assets/preview.png)
+![Project Screenshot](assets/preview.png)
 
 ## Live Demo
 
