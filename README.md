@@ -12,7 +12,7 @@ queries, and page structure.
 
 ## Live Demo
 
-[View Live Website](PASTE_YOUR_LIVE_LINK_HERE)
+[View Live Website](https://harrydevx28.github.io/NetFlix-Clone/)
 
 ## Features
 
