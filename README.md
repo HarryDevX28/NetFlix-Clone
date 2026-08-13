@@ -8,7 +8,7 @@ queries, and page structure.
 
 ## Preview
 
-![Project Screenshot](assets/preview.png)
+![Project Screenshot](assets/images/preview.png)
 
 ## Live Demo
 
