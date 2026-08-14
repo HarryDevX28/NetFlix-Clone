@@ -10,10 +10,6 @@ queries, and page structure.
 
 ![Project Screenshot](assets/images/preview.png)
 
-## Live Demo
-
-[View Live Website](https://harrydevx28.github.io/NetFlix-Clone/)
-
 ## Features
 
 -   Netflix-inspired landing page
